@@ -1,0 +1,14 @@
+<footer id="footer">
+  <% if (theme.sidebar === 'bottom'){ %>
+    <%- partial('_partial/sidebar') %>
+  <% } %>
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      <h1>B-Side Book Club</h1>
+      <h2><small>An A Cappella Group</small></h2>
+      <p>Portland, Oregon</p>
+      <p><a href="/contactus.html">Contact Us</a></p>
+      <p class="copyright">&copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %></p>
+    </div>
+  </div>
+</footer>
