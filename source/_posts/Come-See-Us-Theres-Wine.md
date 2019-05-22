@@ -1,7 +1,9 @@
 title: Come See Us! There's Wine!
 author: B-Side Book Club
-date: 2019-04-16 22:55:09
-tags:
+tags: []
+categories:
+  - events
+date: 2019-04-16 22:55:00
 ---
 Calling all ladies, gentlemen, gent-ladies, lady-men, and those who laugh in the face of labels and binaries!
 
