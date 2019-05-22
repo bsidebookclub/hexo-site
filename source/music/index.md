@@ -3,13 +3,14 @@ date: 2019-05-21 14:43:21
 ---
 # Our Music
  
-Guess what?! We released an EP! We recorded it at the <a href="https://www.facebook.com/thehallowedhalls/?fref=mentions" target="_blank">The Hallowed Halls</a> in 2017! It features an original song by our own Siani Grace and several of our favorite tunes, you can now listen and download our 2017 EP on <a href="https://b-sidebookclub.bandcamp.com/releases" target="_blank">Bandcamp</a>!
+Guess what?! We released an EP! We recorded it at the [The Hallowed Halls](https://www.facebook.com/thehallowedhalls){target='_blank'} in 2017! It features an original song by our own Siani Grace and several of our favorite tunes, you can now listen and download our 2017 EP on [Bandcamp](https://b-sidebookclub.bandcamp.com/releases), or on [Spotify](https://open.spotify.com/album/5HMXIjUCidf4umDJxxmewX?si=QUrjXbNvRGSHpwCStvr0eA){target='_blank'}!
 
 ![Our 2017 EP, recorded at Hallowed Halls](/img/BSideBookClub2017EP.jpg)
 
 ### Check out our EP!
 
 [<button class="z-depth-2 btn">Listen Now!</button>](https://b-sidebookclub.bandcamp.com/releases){target="_blank"}
+
 
 <hr>
 
