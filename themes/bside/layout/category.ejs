@@ -1,1 +1,4 @@
-<%- partial('_partial/archive', {pagination: config.category, index: true}) %>
+<%- partial('_partial/handleSidebar', {
+  partname: '_partial/archive',
+  options: {pagination: config.category, index: true, showSidebar: true}})
+%>

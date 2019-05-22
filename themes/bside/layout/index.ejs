@@ -1,1 +1,6 @@
-<%- partial('_partial/archive', {pagination: 2, index: true}) %>
+<% let homepage = site.pages.data.find(page => (page.title === "Home")) %>
+
+<%- partial('_partial/handleSidebar', {
+  partname: '_partial/page',
+  options: {post: homepage, index: false, showSidebar: false}})
+%>

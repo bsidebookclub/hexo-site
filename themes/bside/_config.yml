@@ -1,12 +1,12 @@
 # Header
 menu:
   Home: /
-  About Us: /about.html
-  Our Music: /ourmusic.html
-  Gallery: /gallery.html
-  Events: /events.html
+  About Us: /about/
+  Our Music: /music/
+  Gallery: /gallery/
+  Events: /events/
   Blog: /blog/
-  Contact Us: /contactus.html
+  Contact Us: /contact/
 # rss: /atom.xml
 
 # Content
@@ -15,6 +15,7 @@ fancybox: true
 
 # Sidebar
 sidebar: right
+
 widgets:
 - category
 # - tag

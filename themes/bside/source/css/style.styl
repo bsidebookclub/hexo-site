@@ -1,3 +1,4 @@
+
 @import "_nib"
 @import "_variables"
 @import "_util/mixin"
@@ -41,9 +42,19 @@ body
 
 .left, .alignleft
   float: left
+.textleft
+  text-align: left
 
 .right, .alignright
   float: right
+.textright
+  text-align: right
+
+.center
+  text-align: center
+
+.clearfloat
+  float: unset !important
 
 .clear
   clear: both
@@ -87,3 +98,49 @@ if sidebar is left
 
 if sidebar
   @import "_partial/sidebar"
+
+
+// some materialize bits
+
+.z-depth-2
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14),0 1px 10px 0 rgba(0,0,0,0.12),0 2px 4px -1px rgba(0,0,0,0.3)
+
+.btn
+  text-decoration: none
+  color: #fff
+  background-color: #26a69a
+  text-align: center
+  letter-spacing: .5px
+  transition: .2s ease-out
+  cursor: pointer
+  border: none;
+  border-radius: 2px;
+  display: inline-block;
+  height: 36px;
+  line-height: 36px;
+  padding: 0 2rem;
+  text-transform: uppercase;
+  vertical-align: middle;
+  -webkit-tap-highlight-color: transparent;
+  &:hover
+    background-color: #2bbbad
+
+
+.input-field
+    position: relative
+    margin-top: 1rem
+
+input:not([type]), input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="time"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="tel"], input[type="number"], input[type="search"], textarea.materialize-textarea
+    background-color: transparent
+    border: none
+    border-bottom: 1px solid #9e9e9e
+    border-radius: 0
+    outline: none
+    height: 3rem
+    width: 100%
+    font-size: 1rem
+    margin: 0 0 20px 0
+    padding: 0
+    box-shadow: none
+    box-sizing: content-box
+    transition: all 0.3s

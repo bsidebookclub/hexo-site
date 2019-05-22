@@ -1,6 +1,9 @@
 .article
   margin: block-margin 0
 
+.article-type-page
+  margin: 0
+
 .article-inner
   @extend $block
   overflow: hidden
@@ -64,6 +67,8 @@
     max-height: 300px
     display: block
     margin: auto
+    &.full-width
+      max-height: unset
   iframe
     border: none
   table

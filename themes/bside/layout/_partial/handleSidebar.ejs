@@ -1,0 +1,11 @@
+<section id="main" <% if(!options.showSidebar){ %>class="clearfloat"<% } %>>
+  <%- partial(partname, options) %>
+</section>
+
+<% if (options.showSidebar && theme.sidebar && theme.sidebar !== 'bottom'){ %>
+  <%- partial('_partial/sidebar', null, {cache: !config.relative_link}) %>
+<% } %>
+
+<% if (!options.index){ %>
+  <%- partial('post/nav', {post: page}) %>
+<% } %>
