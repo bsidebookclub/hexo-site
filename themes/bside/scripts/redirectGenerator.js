@@ -10,3 +10,19 @@ hexo.extend.generator.register('redirect', locals => {
   hexo.log.d(`building ${redirects.length} redirects`);
   return redirects.map(mkredirect);
 });
+
+// rewrite all index.php links to directories.
+hexo.extend.filter.register('server_middleware', function(app){
+  app.use(function(req, res, next){
+    let rgx = /^(.*)\/index.php/;
+    let url = req.url;
+    let matches = url.match(rgx);
+    if(matches) {
+      res.writeHead(302, {
+        Location: `${matches[1]}/index.html`
+      });
+      res.end();
+    }
+    next();
+  }, 1);
+});
