@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "hexo s --config _congfig.yml,_secret_config.yml",
-    "generate": "hexo clean && hexo generate",
+    "generate": "hexo clean && hexo generate"
   },
   "dependencies": {
     "hexo": "^3.8.0",
