@@ -4,7 +4,10 @@ db.json
 *.log
 node_modules/
 public/
+live/
 .deploy*/
+
+.htaccess
 
 _multiconfig.yml
 _secret_config.yml
