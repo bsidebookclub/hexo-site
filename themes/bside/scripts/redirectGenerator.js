@@ -24,5 +24,12 @@ hexo.extend.filter.register('server_middleware', function(app){
       res.end();
     }
     next();
+  }, 2);
+
+  app.use('/robots.txt', function(req, res, next) {
+    console.log('yoo')
+    console.log(Object.keys(app))
+    console.log(app.route);
+    res.end('User-agent: *\nDisallow: *');
   }, 1);
 });
