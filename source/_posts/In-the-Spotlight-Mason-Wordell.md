@@ -5,7 +5,8 @@ categories:
   - news
 date: 2019-06-20 10:16:00
 ---
-[Mason stoppin' to smell the flowers](/img/Mason stoppin' to smell the flowers.png)
+
+![Mason stoppin' to smell the flowers](/img/Mason1.png)
 
 What does it feel like to hug goodness itself? Hug, Mason Wordell and you will know. This energetic, flamboyant-yet-grounded, heartfelt man is so essential to the B-Side family. He is an organizer, instigator, communicator, and inspirer all in one. Mason anchors us both in coordination and musically, as one of our basses. He is one of the original founders of this non-profit singing group and is sometimes jokingly-not-jokingly referred to as the group Dad. 
 
