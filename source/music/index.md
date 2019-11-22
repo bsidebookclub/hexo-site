@@ -1,8 +1,13 @@
 title: Music
 date: 2019-05-21 14:43:21
 ---
-# Our Music
- 
+Be sure to [check us out on Spotify](https://open.spotify.com/artist/7BwxXAyHegUPd1lkQeWYs9?si=Ww2PZ9FcSQykKV1P5whfEg)!!
+
+## New Music!
+
+We recorded an album over the summer of 2019 that we're _very_ excited for. It will be released soon! Stay tuned!
+
+## EP 2017
 Guess what?! We released an EP! We recorded it at the [The Hallowed Halls](https://www.facebook.com/thehallowedhalls){target='_blank'} in 2017! It features an original song by our own Siani Grace and several of our favorite tunes, you can now listen and download our 2017 EP on [Bandcamp](https://b-sidebookclub.bandcamp.com/releases), or on [Spotify](https://open.spotify.com/album/5HMXIjUCidf4umDJxxmewX?si=QUrjXbNvRGSHpwCStvr0eA){target='_blank'}!
 
 ![Our 2017 EP, recorded at Hallowed Halls](/img/BSideBookClub2017EP.jpg)
