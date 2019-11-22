@@ -25,4 +25,8 @@ module.exports = [
     from: 'ourmusic.html',
     to: '/music/',
   },
+  {
+    from: 'blog/2019/06/In-the-Spotlight-Adriana-Hernandez-1/',
+    to: '/blog/2019/06/In-the-Spotlight-Adriana-Hernandez/',
+  },
 ];
