@@ -2,7 +2,7 @@ title: 'In the Spotlight: Andrew Erickson'
 author: B-Side Book Club
 tags: []
 categories:
-  - news
+  - member-spotlight
 date: 2019-05-31 20:52:00
 ---
 ![Andy is a cutie.](/img/andy1.png)

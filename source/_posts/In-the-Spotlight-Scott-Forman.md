@@ -2,7 +2,7 @@ title: 'In the Spotlight: Scott Forman'
 author: B-Side Book Club
 tags: []
 categories:
-  - news
+  - member-spotlight
 date: 2019-08-29 10:17:00
 ---
 

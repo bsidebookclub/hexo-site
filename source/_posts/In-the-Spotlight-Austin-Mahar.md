@@ -1,7 +1,9 @@
 title: 'In the Spotlight: Austin Mahar'
 author: B-Side Book Club
-date: 2019-07-19 15:09:01
-tags:
+tags: []
+categories:
+  - member-spotlight
+date: 2019-07-19 15:09:00
 ---
 
 ![Chillin' with the kitty-cat](/img/Austin1.png)

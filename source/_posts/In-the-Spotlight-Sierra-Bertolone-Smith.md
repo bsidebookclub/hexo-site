@@ -1,7 +1,9 @@
 title: 'In the Spotlight: Sierra Bertolone-Smith'
 author: B-Side Book Club
-date: 2019-07-11 11:39:48
-tags:
+tags: []
+categories:
+  - member-spotlight
+date: 2019-07-11 11:39:00
 ---
 
 

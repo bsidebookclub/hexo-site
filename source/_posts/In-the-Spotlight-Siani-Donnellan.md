@@ -1,7 +1,9 @@
 title: 'In the Spotlight: Siani Donnellan'
 author: B-Side Book Club
-date: 2019-09-05 09:31:18
-tags:
+tags: []
+categories:
+  - member-spotlight
+date: 2019-09-05 09:31:00
 ---
 ![Have you ever seen a more perfect angel? The answer is no, you haven't](/img/Siani1.png)
 

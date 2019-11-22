@@ -1,7 +1,8 @@
 title: 'In the Spotlight: Adriana Hernandez'
 author: B-Side Book Club
 tags: []
-categories: []
+categories:
+  - member-spotlight
 date: 2019-06-14 14:34:00
 ---
 ![Adriana loves her cats](/img/Adriana1.png)

@@ -2,7 +2,8 @@ title: 'In the Spotlight: Matthew Spady'
 author: B-Side Book Club
 tags:
   - news
-categories: []
+categories:
+  - member-spotlight
 date: 2019-06-07 15:56:00
 ---
 ![Who could leaf him alone?](/img/Matt1.png)

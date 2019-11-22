@@ -1,7 +1,9 @@
 title: 'In the Spotlight: Kushi Beauchamp'
 author: B-Side Book Club
-date: 2019-07-26 11:11:49
-tags:
+tags: []
+categories:
+  - member-spotlight
+date: 2019-07-26 11:11:00
 ---
 
 

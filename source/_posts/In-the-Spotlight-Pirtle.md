@@ -1,7 +1,9 @@
 title: 'In the Spotlight: Pirtle'
 author: B-Side Book Club
-date: 2019-06-27 10:32:37
-tags:
+tags: []
+categories:
+  - member-spotlight
+date: 2019-06-27 10:32:00
 ---
 
 ![SING it!](/img/PIRLTE1.png)

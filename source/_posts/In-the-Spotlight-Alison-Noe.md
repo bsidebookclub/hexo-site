@@ -1,7 +1,9 @@
 title: 'In the Spotlight: Alison Noe'
 author: B-Side Book Club
-date: 2019-07-06 10:17:49
-tags:
+tags: []
+categories:
+  - member-spotlight
+date: 2019-07-06 10:17:00
 ---
 ![The stunning and beautiful Alison just sipping on some coffe](/img/Alison1.png)
 

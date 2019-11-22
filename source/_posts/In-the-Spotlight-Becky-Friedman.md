@@ -2,7 +2,7 @@ title: 'In the Spotlight: Becky Friedman'
 author: B-Side Book Club
 tags: []
 categories:
-  - news
+  - member-spotlight
 date: 2019-05-22 10:13:00
 ---
 Becky joined B-Side in 2017, boosting our alto section with her fire, kindness, and mischievous eye-twinkles. Well acquainted with a cappella, Becky participated in vocal groups throughout high school and college, and now brings her expertise to B-Side. If you’ve heard our rendition of Madonna’s Like A Prayer, you have witnessed first-hand the punch-you-in-your-face purity of her clear, angelic bombshell of a voice.

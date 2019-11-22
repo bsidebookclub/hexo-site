@@ -2,7 +2,7 @@ title: 'In the Spotlight: Mason Wordell'
 author: B-Side Book Club
 tags: []
 categories:
-  - news
+  - member-spotlight
 date: 2019-06-20 10:16:00
 ---
 

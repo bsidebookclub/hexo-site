@@ -1,7 +1,9 @@
 title: 'In the Spotlight: Kimo Camat'
 author: B-Side Book Club
-date: 2019-08-20 13:19:51
-tags:
+tags: []
+categories:
+  - member-spotlight
+date: 2019-08-20 13:19:00
 ---
 ![Look at this goober](/img/Kimo1.png)
 
