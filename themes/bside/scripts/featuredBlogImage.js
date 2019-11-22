@@ -9,7 +9,8 @@ hexo.extend.helper.register('featuredImage', function(post){
       theMatch = matches[0].match(/\((.*?)\)/g)[0];
       theMatch = theMatch.substr(1, theMatch.length - 2);
     }
-    let thumbnail = `<img class='post-featured-image' src='${theMatch}' title='${post.title}' />`;
+
+    let thumbnail = `<img class='post-featured-image' src='${theMatch}' title="${post.title}" />`;
 
     return thumbnail;
   }
