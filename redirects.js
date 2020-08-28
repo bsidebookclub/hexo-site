@@ -1,5 +1,5 @@
 
-// these redirects are or legacy reasons.
+// these redirects are for legacy reasons.
 // the pages have since been moved elsewhere, but we still want old links to go
 // where they used to. these are processed by hexo's gulp instance on generate
 // see themes/bside/scripts/redirectGenerator.js
