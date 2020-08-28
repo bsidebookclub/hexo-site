@@ -13,7 +13,7 @@ After much hard work, we are happy to announce that our full-length album was re
 
 ![](/img/B-side-Book-Club-Press-Save-2020.jpg){class="hide show-on-small" style="max-height: 150px;"}
 
-[Spotify](https://open.spotify.com/album/73Z14NOvoeLWfJqKSrwW6n?si=D64MODqHQ1mS5I_N1Y4_fA) | [SoundCloud](https://soundcloud.com/bsidebookclub/sets/press-save) | [YouTube](https://music.youtube.com/playlist?list=OLAK5uy_m6XQXulYYltR7P5sRJrke0N26MO1m3r0E) | [Apple](https://music.apple.com/us/album/press-save/1527145058) | [Amazon](https://smile.amazon.com/Press-Save-B-Side-Book-Club/dp/B08FL5JBKD/)
+[Bandcamp](https://b-sidebookclub.bandcamp.com/album/press-save) | [Spotify](https://open.spotify.com/album/73Z14NOvoeLWfJqKSrwW6n?si=D64MODqHQ1mS5I_N1Y4_fA) | [SoundCloud](https://soundcloud.com/bsidebookclub/sets/press-save) | [YouTube](https://music.youtube.com/playlist?list=OLAK5uy_m6XQXulYYltR7P5sRJrke0N26MO1m3r0E) | [Apple](https://music.apple.com/us/album/press-save/1527145058) | [Amazon](https://smile.amazon.com/Press-Save-B-Side-Book-Club/dp/B08FL5JBKD/)
 
 </div>
 
