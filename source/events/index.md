@@ -4,6 +4,6 @@ date: 2019-05-21 17:00:03
 # Upcoming Events
 |Event|Venue|Date|Time|Additional Info|
 |-----|-----|----|----|---------------|
-|Album Release Show|Portland, OR|Spring 2020 |TBD|We've recorded a new album we're excited to share in this new year! Stay tuned for details.|
+|Album Release | The Internet! | August 28th, 2020 |Now!|Check out our new album at the music service of your choice: [more info](/music/) |
 
-Check back soon for updates!
+Coronavirus is here! We hope to sing with you again soon. Check back for updates!

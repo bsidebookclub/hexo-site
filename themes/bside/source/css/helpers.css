@@ -1,0 +1,15 @@
+.hide {
+  display: none !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .hide-on-small {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .show-on-small {
+    display: block !important;
+  }
+}
