@@ -1,5 +1,11 @@
+const { minify: minifyCss } = require('csso');
 const { minify: minifyHtml } = require('html-minifier');
-const { minify: minifyJS } = require('uglify-js');
+const { minify: minifyJs } = require('uglify-js');
+
+hexo.extend.filter.register('after_render:css', function(str){
+  const minified = minifyCss(str);
+  return minified.css;
+});
 
 hexo.extend.filter.register('after_render:html', function(str){
   return minifyHtml(str, {
@@ -13,6 +19,6 @@ hexo.extend.filter.register('after_render:html', function(str){
 });
 
 hexo.extend.filter.register('after_render:js', function(str){
-  const minified = minifyJS(str);
+  const minified = minifyJs(str);
   return minified.code;
 });

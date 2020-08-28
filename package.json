@@ -10,6 +10,7 @@
     "generate": "hexo clean && hexo generate"
   },
   "dependencies": {
+    "csso": "^4.0.3",
     "hexo": "^5.1.1",
     "hexo-admin": "^2.3.0",
     "hexo-footnotes": "^1.0.2",
