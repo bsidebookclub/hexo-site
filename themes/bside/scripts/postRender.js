@@ -10,7 +10,6 @@ hexo.extend.filter.register('after_render:css', function(str){
 hexo.extend.filter.register('after_render:html', function(str){
   return minifyHtml(str, {
     collapseBooleanAttributes: true,
-    collapseInlineTagWhitespace: true,
     collapseWhitespace: true,
     minifyJS: true,
     minifyCSS: true,
