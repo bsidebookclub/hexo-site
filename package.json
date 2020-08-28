@@ -24,6 +24,7 @@
     "hexo-server": "^2.0.0",
     "html-minifier": "^4.0.0",
     "markdown-it": "^11.0.0",
-    "markdown-it-attrs": "^3.0.3"
+    "markdown-it-attrs": "^3.0.3",
+    "uglify-js": "^3.10.2"
   }
 }
