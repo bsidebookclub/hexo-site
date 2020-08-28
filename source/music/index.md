@@ -11,7 +11,7 @@ After a year of mixing, mastering, editing, and overcoming/enduring a global pan
 
 It features another original by Siani and many more of our favorites from 2018/2019. We hope you'll give it a listen!
 
-![Our 2017 EP, recorded at Hallowed Halls](/img/B-side-Book-Club-Press-Save-2020.jpg)
+![Press Save (2020)](/img/B-side-Book-Club-Press-Save-2020.jpg)
 
 
 ## EP 2017
